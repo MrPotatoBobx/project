@@ -27,6 +27,7 @@ class DataManagment():
     def add(self, value, number):
         data = open("items.txt", "r")
          filedata = data.read()
+         
 
 
 
