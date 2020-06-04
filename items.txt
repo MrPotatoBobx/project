@@ -1,0 +1,6 @@
+batata - 50
+potato - 5
+toilet - 4
+people - 3
+car - 7
+gun - 12
